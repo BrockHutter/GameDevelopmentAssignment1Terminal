@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23 d17.14
+VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hutter-Brock-A1", "Hutter-Brock-A1.csproj", "{C7FBE250-35B1-4DFF-88D3-F7535098997D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hutter-Brock-A1-Enchanted-Cave", "Hutter-Brock-A1-Enchanted-Cave.csproj", "{C7FBE250-35B1-4DFF-88D3-F7535098997D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
