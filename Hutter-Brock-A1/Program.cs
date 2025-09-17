@@ -1,6 +1,4 @@
-﻿
-
-using System.ComponentModel.Design;
+﻿using System.ComponentModel.Design;
 
 class Program
 {
