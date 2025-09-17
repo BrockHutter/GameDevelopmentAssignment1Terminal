@@ -30,6 +30,10 @@ class Program
             {
                 Console.WriteLine("You inspect the glowing flower, the flower seems to recognize who you are. It blesses you with a powerful ability to heal others.\nYou go off on your adventure and become a world-known healer, aiding warriors and royalty back to health.");
             }
+            else
+            {
+                Console.WriteLine("Invalid decision, you sit and observe the garden, it truly is a sight to behold\n\nSECRET ENDING! Achieved zen.");
+            }
         }
 
         //Player goes deeper into the cave instead
@@ -46,6 +50,14 @@ class Program
             {
                 Console.WriteLine("You enter the mines of the dwarves, here you find caves rich with minerals and valuables, and a number of dwarves hard at work.\n\n'Hey, you!' a dwarf calls to you. 'We're a bit behind on schedule, think you could give us a hand? You'll be rewarded for your services!'\n\nAnd thus, you assisted the dwarves with their daily quota. You have earned 50 gold for your hard work!");
             }
+            else
+            {
+                Console.WriteLine("Invalid input, you stand there as a bat flies out of one of the caves above and attacks you until you collapse.\n\nGAME OVER");
+            }
+        }
+        else if (direction == "UP")
+        {
+            Console.WriteLine("You ascend into the air, defying what should be possible.\n\nYou are no longer human, you have entered a divine state of being. This text based adventure is below you.\n\nYou become a godlike being, venturing off to create your own world.\n\nSECRET ENDING! Become a god");
         }
         else
         {
